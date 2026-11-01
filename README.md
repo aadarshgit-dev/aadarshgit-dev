@@ -1,5 +1,5 @@
  <p align="left">
-  <img align="left" src="./assets/WhatsApp%20Image%202026-08-22%20at%2023.45.38.jpeg" width="150" height="150" alt="Aadarsh Dhiman" style="border-radius:50%; margin-right:20px;" />
+  <img align="left" src="./assets/WhatsApp%20Image%202026-08-22%20at%2023.45.38.jpeg" width="150" alt="Aadarsh Dhiman" />
 
   <h1>Hi, I'm Aadarsh Dhiman 👋</h1>
   <h3>Software Developer | B.Tech CSE '27 | Problem Solver</h3>
@@ -30,7 +30,7 @@
 
 - 🎓 B.Tech Computer Science student at **ABES Engineering College**, graduating in 2027.
 - 💻 Interested in **Software Development, Full-Stack Development, and Problem Solving**.
-- 🌱 Currently focusing on the **MERN Stack**.
+- 🌱 Currently focusing on the **MERN Stack (MongoDB, Express.js, React.js, Node.js)**.
 - 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
 - 🤖 Comfortable using AI-powered development tools for coding, debugging, research, and productivity.
 - 🚀 I enjoy building projects, exploring new technologies, and continuously improving my skills.
@@ -132,19 +132,6 @@ A React-based task management application designed to organize everyday tasks.
 
 - Contributed to organizing and coordinating HackHaven 2.0.
 - Collaborated with the organizing team to support event execution and production activities.
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadarshgit-dev&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshgit-dev&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=aadarshgit-dev&theme=tokyonight&hide_border=true" />
-</p>
 
 ---
 
