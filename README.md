@@ -1,5 +1,5 @@
  <p align="center">
-  <img src="./assets/profile-photo.jpg" width="180" alt="Aadarsh Dhiman" />
+  <img src="./assets/assets/WhatsApp Image 2026-08-22 at 23.45.38.jpeg" width="180" alt="Aadarsh Dhiman" />
 </p>
 
 <h1 align="center">Hi, I'm Aadarsh Dhiman 👋</h1>
