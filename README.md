@@ -1,19 +1,19 @@
-
-<h1 align="center">Hi 👋, I'm Aadarsh Dhiman</h1>
-
-<h3 align="center">Software Developer | B.Tech CSE '27 | Problem Solver</h3>
-
-<p align="center">
-  Building web applications, exploring modern technologies
-  and solving problems through code.
+ <p align="center">
+  <img src="./assets/profile-photo.jpg" width="180" alt="Aadarsh Dhiman" />
 </p>
+
+<h1 align="center">Hi, I'm Aadarsh Dhiman 👋</h1>
+
+<h3 align="center">
+  Software Developer | B.Tech CSE '27 | Problem Solver
+</h3>
 
 <p align="center">
   <a href="https://github.com/aadarshgit-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-aadarshgit--dev-181717?style=for-the-badge&logo=github" />
   </a>
   <a href="https://www.linkedin.com/in/aadarsh-dhiman-5170a634a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
   </a>
 </p>
 
@@ -21,13 +21,12 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 Pursuing B.Tech in Computer Science at ABES Engineering College.
-- 💻 Interested in Software Development and Full-Stack Engineering.
-- 🧠 Practicing Data Structures & Algorithms.
-- 🌱 Currently focusing on the MERN Stack (MongoDB, Express.js, React.js, Node.js).
-- 🤖 Proficient in using AI tools for coding, debugging, research and development.
-- ⚡ Passionate about building projects and exploring modern technologies.
-- 🎯 Preparing for software development opportunities.
+- 🎓 B.Tech Computer Science student at **ABES Engineering College**, graduating in 2027.
+- 💻 Interested in **Software Development, Full-Stack Development, and Problem Solving**.
+- 🌱 Currently focusing on the **MERN Stack**.
+- 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
+- 🤖 Comfortable using AI-powered development tools to improve coding, debugging, research, and productivity.
+- 🚀 I enjoy building projects, exploring new technologies, and continuously improving my skills.
 
 ---
 
@@ -57,17 +56,20 @@
 
 ## 🤖 AI Tools & Development Workflow
 
+I use AI tools as part of my development workflow for learning, coding, debugging, research, and rapid prototyping.
+
 <p>
-  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" />
+  <img src="https://img.shields.io/badge/Antigravity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-- Proficient in leveraging AI tools for code generation, debugging and optimization.
-- Experienced in AI-assisted development workflows for rapid prototyping and application development.
-- Use AI tools to explore software architectures, understand codebases and improve development productivity.
+- AI-assisted coding and implementation.
+- Debugging and understanding unfamiliar code.
+- Researching technologies and exploring solutions.
+- Rapid prototyping and improving development workflows.
 
 ---
 
@@ -75,78 +77,77 @@
 
 ### 🏥 Electronic Health Record System (EHRS)
 
-A healthcare management application focused on digital patient records and streamlined healthcare workflows.
+An electronic health record project focused on managing digital healthcare records.
 
-- Explores patient management, appointment scheduling and healthcare data workflows.
-- Developed using an AI-assisted workflow, with a focus on reviewing and refining the generated implementation.
+- Explored AI-assisted development workflows while building the project.
+- Worked on a digital healthcare record management application.
 
-🔗 [GitHub Repository](https://github.com/aadarshgit-dev/electronic-health-record-system)
+🔗 **[GitHub Repository](https://github.com/aadarshgit-dev/electronic-health-record-system)**
 
----
+### ✨ Scrollify – Animated Landing Page
 
-### 🎨 Scrollify – Animated Landing Page
+An animated landing page featuring smooth scrolling and interactive visual effects.
 
-An interactive landing page featuring smooth animations, immersive transitions and modern motion design.
+- Built using HTML, CSS, and JavaScript.
+- Used GSAP for animations and scroll-based interactions.
 
-**Tech Stack:** HTML, CSS, JavaScript, GSAP, ScrollTrigger
-
-- Implemented timeline-based animations and stagger effects using GSAP.
-- Used ScrollTrigger for scroll-based animations and interactions.
-- Designed an engaging interface with smooth transitions.
-
-🌐 [Live Demo](https://scrollify.onrender.com)  
-💻 [GitHub Repository](https://github.com/aadarshgit-dev/ANIMATED-LANDING-PAGE)
-
----
+🔗 **[Live Demo](https://scrollify.onrender.com)** | **[GitHub Repository](https://github.com/aadarshgit-dev/ANIMATED-LANDING-PAGE)**
 
 ### ✅ Tasker – Task Management Application
 
-A React-based productivity application designed to simplify everyday task management.
+A React-based task management application designed to organize everyday tasks.
 
-**Tech Stack:** React, JavaScript, CSS, Vite, LocalStorage
-
-- Implemented task creation, search and status-based filtering.
-- Added LocalStorage persistence and dark mode.
-- Built an interactive interface with reusable React components.
+- Task creation and management.
+- Search and task filtering.
+- Dark mode and LocalStorage support.
+- Built using React and Vite.
 
 ---
 
-## 🏆 Achievements & Leadership
+## 🏆 Achievements & Coding Profiles
 
-- ⭐ 5-Star C++ Coder – HackerRank.
-- 🥈 2-Star Coder – CodeChef.
-- 💡 Solved 50+ DSA problems on LeetCode.
-- 🎯 Production Head – HackHaven 2.0, GDG On Campus ABES EC.
-- 🤝 Coordinated event production, logistics and cross-functional teams.
+- ⭐ **HackerRank:** 5-Star in C++.
+- 💡 **LeetCode:** 50+ problems solved.
+- 🍳 **CodeChef:** 2-Star rating.
+- 📜 HackerRank Problem Solving (Basic) Certification.
+- 📜 HackerRank Python (Basic) Certification.
+
+---
+
+## 👥 Leadership & Experience
+
+**Production Head – HackHaven 2.0**  
+*GDG On Campus, ABES Engineering College*
+
+- Contributed to organizing and coordinating the HackHaven 2.0 event.
+- Collaborated with the organizing team to support event execution and production activities.
 
 ---
 
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aadarshgit-dev&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshgit-dev&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=aadarshgit-dev&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshgit-dev&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=aadarshgit-dev&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=aadarshgit-dev&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 🤝 Connect With Me
+## 🤝 Let's Connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/aadarsh-dhiman-5170a634a/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
+<p align="center">
   <a href="https://github.com/aadarshgit-dev">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/aadarsh-dhiman-5170a634a/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
----
-
 <p align="center">
-  <i>Learning, building and improving — one commit at a time. 🚀</i>
+  <i>Always learning, building, and improving. 🚀</i>
 </p>
