@@ -1,19 +1,14 @@
- <p align="left">
-  <img align="left" src="./assets/WhatsApp%20Image%202026-08-22%20at%2023.45.38.jpeg" width="150" alt="Aadarsh Dhiman" />
+# 👋 Hi, I'm Aadarsh Dhiman
 
-  <h1>Hi, I'm Aadarsh Dhiman 👋</h1>
-  <h3>Software Developer | B.Tech CSE '27 | Problem Solver</h3>
+### Software Developer | B.Tech CSE '27 | Problem Solver
 
-  💻 Interested in Software Development and Full-Stack Development.
+💻 Interested in Software Development and Full-Stack Development.
 
-  🌱 Currently focusing on the MERN Stack.
+🌱 Currently focusing on the MERN Stack.
 
-  🧠 Practicing Data Structures and Algorithms.
+🧠 Practicing Data Structures and Algorithms.
 
-  🤖 Exploring AI-powered development tools.
-
-  <br clear="left" />
-</p>
+🤖 Exploring AI-powered development tools.
 
 <p align="left">
   <a href="https://github.com/aadarshgit-dev">
@@ -41,25 +36,25 @@
 
 ### Programming Languages
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=cpp,java,c,js" />
 </p>
 
 ### Frontend Development
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### Backend & Database
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools & Platforms
 
-<p>
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
 
@@ -69,7 +64,7 @@
 
 I use AI tools as part of my development workflow for learning, coding, debugging, research, and rapid prototyping.
 
-<p>
+<p align="left">
   <img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white" />
@@ -137,7 +132,7 @@ A React-based task management application designed to organize everyday tasks.
 
 ## 🤝 Let's Connect
 
-<p align="center">
+<p align="left">
   <a href="https://github.com/aadarshgit-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -146,6 +141,6 @@ A React-based task management application designed to organize everyday tasks.
   </a>
 </p>
 
-<p align="center">
-  <i>Always learning, building, and improving. 🚀</i>
-</p>
+---
+
+*Always learning, building, and improving. 🚀*
