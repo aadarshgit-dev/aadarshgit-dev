@@ -1,14 +1,21 @@
- <p align="center">
-  <img src="./assets/WhatsApp Image 2026-08-22 at 23.45.38.jpeg" width="180" alt="Aadarsh Dhiman" />
+ <p align="left">
+  <img align="left" src="./assets/WhatsApp%20Image%202026-08-22%20at%2023.45.38.jpeg" width="150" height="150" alt="Aadarsh Dhiman" style="border-radius:50%; margin-right:20px;" />
+
+  <h1>Hi, I'm Aadarsh Dhiman 👋</h1>
+  <h3>Software Developer | B.Tech CSE '27 | Problem Solver</h3>
+
+  💻 Interested in Software Development and Full-Stack Development.
+
+  🌱 Currently focusing on the MERN Stack.
+
+  🧠 Practicing Data Structures and Algorithms.
+
+  🤖 Exploring AI-powered development tools.
+
+  <br clear="left" />
 </p>
 
-<h1 align="center">Hi, I'm Aadarsh Dhiman 👋</h1>
-
-<h3 align="center">
-  Software Developer | B.Tech CSE '27 | Problem Solver
-</h3>
-
-<p align="center">
+<p align="left">
   <a href="https://github.com/aadarshgit-dev">
     <img src="https://img.shields.io/badge/GitHub-aadarshgit--dev-181717?style=for-the-badge&logo=github" />
   </a>
@@ -25,7 +32,7 @@
 - 💻 Interested in **Software Development, Full-Stack Development, and Problem Solving**.
 - 🌱 Currently focusing on the **MERN Stack**.
 - 🧠 Practicing Data Structures and Algorithms to strengthen my problem-solving skills.
-- 🤖 Comfortable using AI-powered development tools to improve coding, debugging, research, and productivity.
+- 🤖 Comfortable using AI-powered development tools for coding, debugging, research, and productivity.
 - 🚀 I enjoy building projects, exploring new technologies, and continuously improving my skills.
 
 ---
@@ -33,21 +40,25 @@
 ## 🛠️ Tech Stack
 
 ### Programming Languages
+
 <p>
   <img src="https://skillicons.dev/icons?i=cpp,java,c,js" />
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,tailwind,vite" />
 </p>
 
 ### Backend & Database
+
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb" />
 </p>
 
 ### Tools & Platforms
+
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" />
 </p>
@@ -119,7 +130,7 @@ A React-based task management application designed to organize everyday tasks.
 **Production Head – HackHaven 2.0**  
 *GDG On Campus, ABES Engineering College*
 
-- Contributed to organizing and coordinating the HackHaven 2.0 event.
+- Contributed to organizing and coordinating HackHaven 2.0.
 - Collaborated with the organizing team to support event execution and production activities.
 
 ---
