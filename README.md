@@ -89,6 +89,7 @@ An immersive creative studio website featuring experimental layouts, bold typogr
 - GSAP-powered animations and interactions.
 - HTML Canvas-based visual sequences.
 - Smooth scrolling with Locomotive Scroll.
+- PS : DONT FORGET TO CLICK ON "THIRTYSIXSTUDIO" !!!!!!!
 
 🔗 **[Live Demo](https://36stxdio.netlify.app/)** | **[GitHub Repository](https://github.com/aadarshgit-dev/36Stxdio)**
 
