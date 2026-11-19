@@ -81,6 +81,18 @@ I use AI tools as part of my development workflow for learning, coding, debuggin
 
 ## 🚀 Featured Projects
 
+### 🎨 36Stxdio — Creative Studio Website
+
+An immersive creative studio website featuring experimental layouts, bold typography, interactive animations, and canvas-based image sequences.
+
+- Built using React, Vite and Tailwind CSS.
+- GSAP-powered animations and interactions.
+- HTML Canvas-based visual sequences.
+- Smooth scrolling with Locomotive Scroll.
+
+🔗 **[Live Demo](https://36stxdio.netlify.app/)** | **[GitHub Repository](https://github.com/aadarshgit-dev/36Stxdio)**
+
+
 ### 🏥 Electronic Health Record System (EHRS)
 
 An electronic health record project focused on managing digital healthcare records.
